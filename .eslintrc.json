@@ -13,10 +13,11 @@
     "react/react-in-jsx-scope": 0 //turns off requiring to import react in every file
   },
   "parserOptions": {
-    "ecmaVersion": 2021, //use the most modern version.
+    "ecmaVersion": 2022, //use the most modern version.
     "sourceType": "module", //we will be using ES Modules
     "ecmaFeatures": {
-      "jsx": true //we will be using JSX
+      "jsx": true,
+      "tsx": true
     }
   },
   "env": {

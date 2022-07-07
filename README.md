@@ -1,1 +1,1 @@
-# custom-react-app-config
+# Custom React App Config
